@@ -1,7 +1,7 @@
 # **Meu nome é *Lucas*, desenvolvedor junior formado em TADS.**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaswyassumoto&theme=swift&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswyassumoto&layout=compact&langs_count=6&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaswyassumoto&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswyassumoto&layout=compact&langs_count=6&theme=tokyonight)
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) °
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
