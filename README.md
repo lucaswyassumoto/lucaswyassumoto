@@ -1,7 +1,6 @@
 ## **My name is Lucas, a junior developer focused on Backend with a degree in TADS (Analysis and Development of Systems Analysis)**
-*Java developer focused on backend development, with experience building REST APIs using Spring Boot, database integration, and version control with Git. I am seeking opportunities to develop scalable and well-structured systems*
+*Java developer focused on backend development, with experience building REST APIs using Spring Boot, database integration, and version control with Git. I am seeking opportunities to develop scalable and well-structured systems. I'm always looking to improve my skills in development, documentation, and agile methodologies*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswyassumoto&layout=compact&theme=tokyonight)
 
 ### **⚙️Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
