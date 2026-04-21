@@ -15,7 +15,7 @@
   alt="GitHub Stats"
   height="200"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswyassumoto&theme=nord&layout=compact&custom_title=Tecnologias&count_private=true&token="
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswyassumoto&theme=nord&layout=compact&custom_title=Tecnologias"
 />
 
 <br><br><br><br><br><br><br><br><br>
