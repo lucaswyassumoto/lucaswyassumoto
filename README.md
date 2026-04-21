@@ -18,7 +18,7 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswyassumoto&theme=nord&layout=compact&custom_title=Tecnologias"
 />
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ### **⚙️Backend**
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
