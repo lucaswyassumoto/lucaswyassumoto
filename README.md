@@ -1,5 +1,5 @@
 ## **Junior FullStack Developer, with a degree in Systems Analysis and Development**
-*Desenvolvedor Junior FullStack, focado no desenvolvimento de sistemas limpos, bem estruturados e escaláveis. Construindo projetos práticos e buscando minha primeira oportunidade na área. Atualmente focado no aprendizado de Java (Spring Boot), Typescript e C#*
+*Desenvolvedor Junior FullStack, focado no desenvolvimento de sistemas limpos, bem estruturados e escaláveis. Construindo projetos práticos e buscando minha primeira oportunidade na área. Atualmente focado no aprendizado de Java (Spring Boot), Typescript e C#.*
 
 ### **Statistics**
 <img
