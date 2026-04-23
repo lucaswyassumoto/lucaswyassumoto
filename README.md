@@ -7,7 +7,7 @@
   alt="GitHub Stats"
   height="200"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=lucaswyassumoto&show_icons=true&theme=nord&include_all_commits=true"
+  src="https://github-readme-stats.vercel.app/api?username=lucaswyassumoto&show_icons=true&theme=default&include_all_commits=true"
 />
 
 <img
@@ -15,7 +15,7 @@
   alt="GitHub Stats"
   height="200"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswyassumoto&theme=nord&layout=compact&custom_title=Tecnologias"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswyassumoto&theme=default&layout=compact&custom_title=Tecnologias"
 />
 
 <br><br><br><br><br><br><br><br><br><br>
