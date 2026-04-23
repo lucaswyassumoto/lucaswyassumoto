@@ -22,10 +22,10 @@
 
 ***Tecnologias:*** <br>
 ![HTML5](https://img.shields.io/badge/HTML5-CD7700?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![CSS3](https://img.shields.io/badge/CSS3-231564?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-800080?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-6395EE?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <br>
 ***Aprendendo:*** <br>
