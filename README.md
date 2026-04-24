@@ -18,7 +18,7 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswyassumoto&theme=nord&layout=compact&custom_title=Tecnologias"
 />
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ***Tecnologias:*** <br>
 <img alt="html5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg">
