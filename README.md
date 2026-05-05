@@ -7,7 +7,7 @@
   alt="GitHub Stats"
   height="200"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=lucaswyassumoto&show_icons=true&theme=github_dark_dimmed&include_all_commits=true"
+  src="https://github-readme-stats.shion.dev/api?username=lucaswyassumoto&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"
 />
 
 <img
