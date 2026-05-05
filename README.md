@@ -7,7 +7,7 @@
   alt="GitHub Stats"
   height="200"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.shion.dev/api?username=lucaswyassumoto&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"
+  src="https://github-readme-stats.shion.dev/api?username=lucaswyassumoto&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"
 />
 
 <img
@@ -15,7 +15,7 @@
   alt="GitHub Stats"
   height="200"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=lucaswyassumoto&theme=github_dark_dimmed&hide_border=true&layout=compact&langs_count=5"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=lucaswyassumoto&theme=dracula&hide_border=true&layout=compact&langs_count=5"
 />
 
 <br><br><br><br><br><br><br><br><br><br><br>
