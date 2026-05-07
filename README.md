@@ -1,24 +1,14 @@
 ## **Desenvolvedor Junior FullStack, formado em Tecnologia em Análise e Desenvolvimento de Sistemas**
 *Focado no desenvolvimento de sistemas limpos, bem estruturados e escaláveis. Construindo projetos práticos e buscando minha primeira oportunidade na área. Atualmente focado no aprendizado de Java (Spring Boot), Typescript e C#.*
 
-### **Statistics**
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.shion.dev/api?username=lucaswyassumoto&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"
-/>
+## **Statistics**
 
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=lucaswyassumoto&theme=dracula&hide_border=true&layout=compact&langs_count=5"
-/>
+<div align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=lucaswyassumoto&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lucaswyassumoto&theme=dark&hide_border=true&layout=compact&langs_count=5"/>
+</div>
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br>
 
 ***Tecnologias:*** <br>
 <img alt="html5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg">
