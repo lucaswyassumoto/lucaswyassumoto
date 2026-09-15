@@ -1,5 +1,5 @@
 ## **Desenvolvedor Junior FullStack, formado em Tecnologia em Análise e Desenvolvimento de Sistemas**
-*Focado no desenvolvimento de sistemas limpos, bem estruturados e escaláveis. Construindo projetos práticos e buscando minha primeira oportunidade na área. Atualmente focado no aprendizado de Java (Spring Boot), Typescript e React.*
+*Focado no desenvolvimento de sistemas limpos, bem estruturados e escaláveis. Construindo projetos práticos e buscando minha primeira oportunidade na área. Atualmente focado no aprendizado de Java (Spring Boot).*
 
 ## **Statistics**
 
