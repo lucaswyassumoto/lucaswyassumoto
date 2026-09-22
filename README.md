@@ -26,3 +26,5 @@
 <br><br>
 
 *Omotenashi (おもてなし)*
+
+![Profile Views](https://komarev.com/ghpvc/?username=lucaswyassumoto&color=2c2c5e)
